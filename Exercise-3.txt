@@ -1,0 +1,10 @@
+2.Create Criteria  in HQL queries.
+-Take the entity class name as Employee with following variables.
+	A.employee_id;
+	B.employee_name;
+	C.employee_sal;
+-insert values into employee table.
+perform bellow operatios on criteria by applying Restrictions.
+1.get the employee details whose salary is less than 20000, 
+2.get the employee details whose firat name stars with R
+3. get records having salary in between 1000 and 2000

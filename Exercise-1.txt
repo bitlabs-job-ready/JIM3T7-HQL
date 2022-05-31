@@ -1,0 +1,6 @@
+1.Implement CRUD operations by using HQL queries.
+-Take the entity class name as Student with following variables.
+	A.student_id;
+	B.student_name;
+	C.student_totalmarks;
+-perform crud operations on student ,by using HQL query

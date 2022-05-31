@@ -1,0 +1,6 @@
+2.Implement WHERE Clause, GroupBY Clause,and Orderby clause in HQL queries.
+-Take the entity class name as Student with following variables.
+	A.student_id;
+	B.student_name;
+	C.student_totalmarks;
+-insert values into student table by using Hql 
